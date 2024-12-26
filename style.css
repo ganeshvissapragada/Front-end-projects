@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    background-color: #fef4f3;
+    height: 100vh;
+}
+.hero-section{
+    width: 60vw;
+}
+.carousel img {
+    /* 50% of the viewport height */
+    height: 40vh;
+    width: 35vw;
+    object-fit: fill;
+    
+  }
+  .hero-container{
+    width: 100vw;
+  }
+  
